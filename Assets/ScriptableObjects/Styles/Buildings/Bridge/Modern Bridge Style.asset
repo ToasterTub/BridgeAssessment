@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b8c1a98b0dd439eb26feeee902e744c, type: 3}
+  m_Name: Modern Bridge Style
+  m_EditorClassIdentifier: 
+  start: {fileID: 7900931438002596463, guid: 6dc06335caf6ce84ab3e3656dc363af5, type: 3}
+  middle: {fileID: 7582403536243102959, guid: 429e9bd2c782d664f8bad9b262816d09, type: 3}
+  extension: {fileID: 7344789818201413579, guid: 6416f81aeb670954d8b14b5d7b3d72aa, type: 3}
+  end: {fileID: 858945720408182308, guid: 7053faeefd5eda44b8915c371f11d54b, type: 3}
