@@ -63,6 +63,8 @@ namespace UI.EditMode
 
         void LateUpdate()
         {
+            UpdateHandles();
+            
             var ray = worldCamera.ScreenPointToRay(Input.mousePosition);
 
             void TryClearHover()
@@ -109,7 +111,6 @@ namespace UI.EditMode
             }
             
             TryClearHover();
-            UpdateHandles();
         }
 
         void UpdateHandles()
